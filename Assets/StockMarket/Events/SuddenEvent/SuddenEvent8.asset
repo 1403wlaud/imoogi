@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 96936704084c28e66806f34e9e7a72ee, type: 3}
-  m_Name: Tech1Event
+  m_Name: SuddenEvent8
   m_EditorClassIdentifier: 
   headerSprite: {fileID: 0}
-  header: 
+  header: "\uC6A9\uCC0C \uC2E0\uC0C1 \uCD9C\uC2DC"
   description: 
   type: 0
-  rate: 0
+  rate: 0.3
